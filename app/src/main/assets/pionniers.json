@@ -1,0 +1,16 @@
+{
+    "pionniers": [ 
+        {"name" : "Linus Torvalds"},
+        {"name" : "Richard Stallman"},
+        {"name" : "John McCarthy"},
+        {"name" : "Andy Gavin"},
+        {"name" : "Brian Kernighan"},
+        {"name" : "Dennis Ritchie"},
+        {"name" : "Ken Thompson"},
+        {"name" : "Steve Wozniak"},
+        {"name" : "Bjarne Stroustrup"},
+        {"name" : "Tim Sweeney"},
+        {"name" : "Tim Berners-Lee"},
+        {"name" : "John von Neumann"}
+    ]
+}
